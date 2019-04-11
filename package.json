@@ -1,0 +1,30 @@
+{
+  "name": "vl-dl",
+  "version": "1.0.0",
+  "description": "A NodeJS based VidLii downloader.",
+  "main": "app.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "puppeteer": "^1.14.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0hdarn/vl-dl.git"
+  },
+  "keywords": [
+    "vidlii",
+    "download",
+    "nodejs",
+    "termer",
+    "sudeurion",
+    "emg"
+  ],
+  "author": "0hdarn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0hdarn/vl-dl/issues"
+  },
+  "homepage": "https://github.com/0hdarn/vl-dl#readme"
+}
